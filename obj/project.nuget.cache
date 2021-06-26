@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+VSH0nTZW48FYT+8/xEWhXerHhwRIVsCCzY/Ie5GXhUR+xFrmVVD8tneSoko1+mJRcVy1rqaOfik6p1psBRL/A==",
+  "success": true,
+  "projectFilePath": "/Users/skjelinottosen/Code/my-economy/my-economy.csproj",
+  "expectedPackageFiles": [
+    "/Users/skjelinottosen/.nuget/packages/microsoft.aspnetcore.spaservices.extensions/5.0.5/microsoft.aspnetcore.spaservices.extensions.5.0.5.nupkg.sha512",
+    "/Users/skjelinottosen/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/skjelinottosen/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/skjelinottosen/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/skjelinottosen/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
